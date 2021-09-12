@@ -1,4 +1,4 @@
 # Consumer-Loan-Assistant
-A Java Project to calculate your Loan balance with given Interest rate
+A Java Project to calculate your Loan balance with given Interest rate.
 
--- By Rajdeep Das
+This project has been developed by Rajdeep Das as a Project Intern under Suven Consultants & Technology Private Limited. (2020)
